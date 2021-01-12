@@ -27,8 +27,7 @@ races. This is even more evident in the Washington, DC where there is a 5% diffe
 ### Technologies
 This project was created with:
 
-* R Studio Version 1.2.5033
-* R Console 3.6.3
+* R Studio Version 1.3.1093
 * 2020 Mac with 16GB running macOS Catalina Version 10.15.7
 
 
